@@ -1,7 +1,7 @@
 spring:
   application:
-    name: order-service
-
+    name: account-service
+c
   cloud:
     config:
       uri: ${CONFIG_SERVER_URI:http://localhost:9000}
